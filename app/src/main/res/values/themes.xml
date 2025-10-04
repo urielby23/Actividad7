@@ -1,5 +1,5 @@
 <resources>
-    <style name="Theme.Actividad7" parent="Theme.Material3.DayNight">
+    <style name="Theme.Actividad7" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- 🎨 Colores principales del tema -->
         <item name="colorPrimary">@color/primary_color</item>
         <item name="colorSecondary">@color/secondary_color</item>
