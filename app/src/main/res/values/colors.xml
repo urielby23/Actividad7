@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 🎨 Paleta de colores principales (mínimo 5) -->
+    <color name="primary_color">#FF6B35</color>        <!-- Naranja vibrante -->
+    <color name="secondary_color">#F7931E</color>      <!-- Naranja dorado -->
+    <color name="tertiary_color">#FFD23F</color>       <!-- Amarillo brillante -->
+    <color name="accent_color">#4ECDC4</color>         <!-- Turquesa -->
+    <color name="complementary_color">#45B7D1</color>  <!-- Azul cielo -->
+
+    <!-- 🎨 Colores adicionales de soporte -->
+    <color name="background_color">#FFFFFF</color>     <!-- Blanco -->
+    <color name="surface_color">#F8F9FA</color>        <!-- Gris muy claro -->
+    <color name="text_primary">#2C3E50</color>         <!-- Gris oscuro -->
+    <color name="text_secondary">#7F8C8D</color>       <!-- Gris medio -->
+    <color name="success_color">#27AE60</color>        <!-- Verde éxito -->
+    <color name="warning_color">#F39C12</color>        <!-- Naranja advertencia -->
+    <color name="error_color">#E74C3C</color>          <!-- Rojo error -->
+</resources>
