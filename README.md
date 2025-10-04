@@ -28,5 +28,9 @@ Usando `Intent.ACTION_SEND` o `ACTION_SEND_MULTIPLE` para compartir texto y foto
 La comunicación entre aplicaciones usando Intents es una herramienta útil que permite crear experiencias integradas en el ecosistema Android. Al delegar tareas (por ejemplo, usar la cámara, compartir contenido o navegar), la aplicación se mantiene ligera y aprovecha funciones ya existentes en otras apps. Sin embargo, es importante verificar si las funciones están disponibles y manejar los permisos y URIs con cuidado para proteger la información del usuario y ofrecer una experiencia consistente.
 
 ## 📸 Capturas de Pantalla
-![Pantalla ](screenshots/pantalla.png)
+![Pantalla Inicio App](screenshots/pantalla.png)
+![Captura de pantalla principal](screenshots/CapPrincipal.png)
+![Captura de producto seleccionado](screenshots/ProductoSeleccionado.png)
+![Captura de navegador abierto](screenshots/NavegadorAbierto.png)
+![Captura de regreso a la app](screenshots/RegresoALaApp.png)
 
